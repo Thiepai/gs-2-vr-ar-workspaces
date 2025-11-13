@@ -1,0 +1,15 @@
+name: Versioning
+on:
+  push:
+    branches:
+      - main
+jobs:
+  create-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Criar tag
+        run: |
+          VERSION=$(date +'%Y.%m.%d.%H%M')
+          git tag $VERSION
+          git push origin $VERSION
