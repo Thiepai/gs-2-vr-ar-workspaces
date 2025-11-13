@@ -29,7 +29,7 @@ O objetivo é projetar uma **API moderna, escalável e preparada para implantaç
 
 ## 🔗 **URLs Importantes**
 - **Repositório GitHub:** https://github.com/Thiepai/gs-2-vr-ar-workspaces  
-- **Imagem Docker Hub:** [https://hub.docker.com/repository/dockerthiepai/gs-2-vr-ar-workspaces/general  
+- **Imagem Docker Hub:** [[https://hub.docker.com/repository/dockerthiepai/gs-2-vr-ar-workspaces/general  ](https://hub.docker.com/repository/docker/thiepai/gs-2-vr-ar-workspaces/general)
 
 ---
 
